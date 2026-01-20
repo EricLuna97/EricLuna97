@@ -1,5 +1,5 @@
 Hi there 👋 I'm Eric Luna
-I'm a passionate Software Developer from Argentina, focused on building clean, functional, and efficient applications. I love turning complex problems into simple, elegant solutions.
+I'm a Software Developer from Argentina, focused on building clean, functional, and efficient applications. I love turning complex problems into simple, elegant solutions.
 
 My Toolbox 🚀
 These are the technologies and tools I enjoy working with.
