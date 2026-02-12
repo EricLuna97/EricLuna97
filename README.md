@@ -6,7 +6,7 @@ These are the technologies and tools I enjoy working with.
 
 Languages:
 
-HTML, CSS, Javascript, C++, SQL
+Javascript, C++, Python, SQL
 
 Frameworks:
 
@@ -22,7 +22,7 @@ AWS
 
 Tools:
 
-Git, GitHub, Visual Studio Code, MSYS2, pgAdmin, Jira
+Git, GitHub, Visual Studio Code, MSYS2, Jira
 
 Key Projects ✨
 I'm constantly building and improving projects to showcase my skills. Check out my pinned repositories for my latest work!
