@@ -1,12 +1,16 @@
 Hi there 👋 I'm Eric Luna
 I'm a Software Developer from Argentina, focused on building clean, functional, and efficient applications. I love turning complex problems into simple, elegant solutions.
 
-My Toolbox 🚀
+My Toolbox 🧰
 These are the technologies and tools I enjoy working with.
 
 Languages:
 
-Javascript, C++, Python, SQL
+JavaScript, TypeScript, SQL
+
+Frontend:
+
+Astro, Tailwind CSS
 
 Frameworks:
 
@@ -16,13 +20,9 @@ Databases:
 
 PostgreSQL
 
-Cloud: 
-
-AWS
-
 Tools:
 
-Git, GitHub, Visual Studio Code, MSYS2, Jira
+Git, Visual Studio Code, Docker, Postman, Prisma, Jira  
 
 Key Projects ✨
 I'm constantly building and improving projects to showcase my skills. Check out my pinned repositories for my latest work!
